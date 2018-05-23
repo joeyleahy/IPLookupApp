@@ -31,8 +31,6 @@
         <element>ip_address</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <function_definition/>
-        <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
@@ -55,7 +53,7 @@
         <sys_created_by>joe.leahy</sys_created_by>
         <sys_created_on>2018-05-23 10:16:25</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>86f729b04f1257009f5f78e18110c711</sys_id>
+        <sys_id>15599efc0f1adb404658cbdce1050e42</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>IP address</sys_name>
         <sys_package display_value="IPLookup" source="x_67660_iplookup">364529e44f9617009f5f78e18110c7d0</sys_package>
@@ -63,8 +61,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="IPLookup">364529e44f9617009f5f78e18110c7d0</sys_scope>
         <sys_update_name>sys_dictionary_x_67660_iplookup_ipaddressinfo_ip_address</sys_update_name>
-        <sys_updated_by>joe.leahy</sys_updated_by>
-        <sys_updated_on>2018-05-23 10:16:25</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-05-23 13:51:40</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
